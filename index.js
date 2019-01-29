@@ -16,9 +16,5 @@ function nowServing(currentLine) {
 }
 
 function currentLine(current) {
-  for(let i = 0; i < current.length; i++) {
-    return `${i++}. ${current[i]}, `;
-  }
-}
-
+  if 
 console.log(currentLine(test))
