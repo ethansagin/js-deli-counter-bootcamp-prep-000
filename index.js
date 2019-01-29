@@ -22,6 +22,7 @@ function currentLine(x) {
      for(var i = 0; i < x.length; i++) {
         line += (i + 1) + ". " + x[i] + ", "
       }
-    return 
+    return 'The line is currently' + line
   }
+}
 
