@@ -15,6 +15,6 @@ function nowServing(currentLine) {
     }
 }
 
-function currentLine(current) {
+function currentLine(line) {
   if 
-console.log(currentLine(test))
+
