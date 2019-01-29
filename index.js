@@ -1,4 +1,3 @@
-var test = [1, 2, 3]
 
 function takeANumber(currentLine, newPerson) {
   currentLine.push(newPerson);
@@ -16,5 +15,10 @@ function nowServing(currentLine) {
 }
 
 function currentLine(line) {
-  if 
+  if(line.length === 0) {
+    return 'The line is currently empty.'
+  } else {
+    var place = 
+    
+  }
 
