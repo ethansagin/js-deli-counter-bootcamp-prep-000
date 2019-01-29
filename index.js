@@ -11,7 +11,7 @@ function nowServing(currentLine) {
   } else {
     var name = currentLine[0];
     currentLine.shift();
-    return ''
+    return `Currently serving ${name}.`
     }
 }
 
